@@ -1,10 +1,9 @@
 <p align="center">
   <video width="600" height="400" controls>
-    <source src="https://github.com/ayush7480/Innovative-Login-Page/blob/main/Video.mp4" type="video/mp4">
+    <source src="https://raw.githubusercontent.com/ayush7480/Innovative-Login-Page/main/Video.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </p>
-
 
 
 
