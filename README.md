@@ -1,4 +1,4 @@
-![Video Preview](https://github.com/kabir7480/Innovative-Login-Page/raw/main/Video.gif)
+![Video Preview](https://github.com/kabir7480/Innovative-Login-Page/Video.gif)
 
 
 
