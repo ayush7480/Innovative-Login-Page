@@ -5,9 +5,6 @@
   </video>
 </p>
 
-
-
-
 # Innovative Login Page with Cursor and Input Field Tracking
 
 ## Overview
