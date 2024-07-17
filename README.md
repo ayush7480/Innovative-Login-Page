@@ -1,9 +1,7 @@
 <p align="center">
-  <video width="600" height="400" controls>
-    <source src="https://raw.githubusercontent.com/ayush7480/Innovative-Login-Page/main/Video.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <img src="https://github.com/kabir7480/Innovative-Login-Page/raw/main/Video.gif" width="600" height="400" alt="Video Preview">
 </p>
+
 
 # Innovative Login Page with Cursor and Input Field Tracking
 
