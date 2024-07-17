@@ -1,4 +1,6 @@
-![Video Preview](https://github.com/ayush7480/Innovative-Login-Page/blob/main/Video.gif)
+<p align="center">
+  <img src="https://github.com/kabir7480/Innovative-Login-Page/raw/main/Video.gif" width="600" height="400" alt="Video Preview">
+</p>
 
 
 
