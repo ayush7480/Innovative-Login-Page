@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kabir7480/Innovative-Login-Page/blob/main/Video.mp4" width="600" height="400" alt="Video Preview">
+  <img src="https://github.com/ayush7480/Innovative-Login-Page/blob/main/Video.mp4" width="600" height="400" alt="Video Preview">
 </p>
 
 
